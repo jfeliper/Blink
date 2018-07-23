@@ -1,2 +1,2 @@
 ﻿# Blink
-Ejemplo
+Ejemplo para practicar con git
