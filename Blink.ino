@@ -1,6 +1,5 @@
 /*
-  Blink
-version en github
+  Blink version en github
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
@@ -10,13 +9,6 @@ version en github
   If you want to know what pin the on-board LED is connected to on your Arduino
   model, check the Technical Specs of your board at:
   https://www.arduino.cc/en/Main/Products
-
-  modified 8 May 2014
-  by Scott Fitzgerald
-  modified 2 Sep 2016
-  by Arturo Guadalupi
-  modified 8 Sep 2016
-  by Colby Newman
 
   This example code is in the public domain.
 
